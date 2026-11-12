@@ -1,0 +1,8 @@
+{
+  "name": "Remix Personal Agent Shopping Prototype",
+  "description": "A polished, clickable prototype of a personal AI agent chat app demonstrating a retail shopping and offer journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
